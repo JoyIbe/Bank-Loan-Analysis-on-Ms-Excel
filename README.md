@@ -27,20 +27,41 @@ I created a grid view report categorized by “Loan Status” revealing good loa
 
 - Overview Dashboard:
 I visualized the following:
+
 •Monthly Trends by issue date
+
 •Regional Analysis by state
+
 •Loan Term Analysis
+
 •Employee Length Analysis 
+
 •Loan Purpose Breakdown 
+
 •Home Ownership Analysis
 
 ## 📊Chart Description:
 For adequate and comprehensible representation, I utilized the following for my analysis: 
-•Filled Map: used this to show areas with concentrated lending operations and evaluate the differences between regions.
-•Bar Charts: this illustrated how lending statistics are spread across borrowers by employment length and enabled us to evaluate the relationship between employment history and also showcasing the purpose of the loan.
-•Line Chart: The chart showed periodic trends and long-term tendencies in the credit operations. 
-•Tree map Chart: The chart showed a hierarchical view of how home ownership impacts loan application. 
-In conclusion, this analytic dashboard extensively explored necessary information about the bank’s credit history and operations revealing that the bank draws increased benefit from good loans. However, it has to function more optimally to minimize the number of bad loans.
 
-## 📂 Data Info: The raw data contained 24 columns, which turned 25 after processing and over 38.5k rows.
+•Filled Map: used this to show areas with concentrated lending operations and evaluate the differences between regions.
+
+•Bar Charts: this illustrated how lending statistics are spread across borrowers by employment length and enabled us to evaluate the relationship between employment history and also showcasing the purpose of the loan.
+
+•Line Chart: The chart showed periodic trends and long-term tendencies in the credit operations. 
+
+•Tree map Chart: The chart showed a hierarchical view of how home ownership impacts loan application. 
+
+
+## Dashboard:
+![Summary](https://github.com/user-attachments/assets/c03a3d31-4526-49d0-a7c5-daf7394cc387)
+
+![Overview](https://github.com/user-attachments/assets/a154ce89-d233-46b8-8632-9a9466395651)
+
+## Conclusion:
+This analytic dashboard extensively explored necessary information about the bank's credit history and operations revealing that the bank draws increased benefit from good loans. 
+
+However, it has to function more optimally to minimize the number of bad loans.
+
+## 📂 Data Info: 
+The raw data contained 24 columns, which turned 25 after processing and over 38.5k rows.
 
