@@ -1,4 +1,4 @@
-# Bank-Loan-Analysis-on-Ms-Excel
+# Financial Loan Analysis on Ms Excel
 
 ## Project Overview:
 The objective of this analysis lies in providing precise insights into our bank’s lending operations and monitor loan performance. The dashboard aims at providing well-thought out information from metrics to access vital day-to-day operations which would enable us make data-driven decisions and assess the health of our loan portfolio. 
