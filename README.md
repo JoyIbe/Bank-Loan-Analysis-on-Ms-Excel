@@ -13,6 +13,7 @@ Here, I took several steps to prepare the raw data for analysis, they include:
 For this analysis, I have created two well defined dashboard, a summary and overview dashboard respectively. The following KPI requirements visualized includes:
 
 - Summary Dashboard:
+  
 Primary KPIs:
 •Total Loan Application
 •Total Funded Amount
@@ -20,6 +21,7 @@ Primary KPIs:
 •Average Interest Rate 
 •Average Debt-to-Income Rate
 Note: I tracked and recorded Month-to-Date (MTD)and Month-over-Month (MoM) changes across the aforementioned metrics. 
+
 Secondary KPIs:
 I created a grid view report categorized by “Loan Status” revealing good loan vs bad loan (Good loan refers to fully paid loan, otherwise means bad loan), showcasing loan application percentage, loan application, total funded amount, etc for both good and bad loan. 
 
