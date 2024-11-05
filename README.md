@@ -53,9 +53,9 @@ For adequate and comprehensible representation, I utilized the following for my 
 
 
 ## Dashboard:
-![Summary](https://drive.google.com/open?id=1wM38EFwtWt-yz39eooJ_CAJdIAwm84QJ&usp=drive_copy)
+![Summary](https://media.licdn.com/dms/image/v2/D4D22AQGzPbjPyD6I9Q/feedshare-shrink_1280/feedshare-shrink_1280/0/1725711688116?e=1733961600&v=beta&t=xpa191EDhJjA-Yzc_pMmmhhyh0IPXcgJpfvepm1HSAs)
 
-![Overview](https://drive.google.com/open?id=1CcwlGtuRP8MdC53QXFFIsqAJcvVFGX7z&usp=drive_copy)
+![Overview](https://media.licdn.com/dms/image/v2/D4D22AQEQWNpzQhQOHQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1725711671709?e=1733961600&v=beta&t=e8zsxDgnC80d-2fe7wGLq11w1Vv1KOjBETZByfOKgKk)
 
 ## Conclusion:
 This analytic dashboard extensively explored necessary information about the bank's credit history and operations revealing that the bank draws increased benefit from good loans. 
